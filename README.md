@@ -66,9 +66,9 @@ Developer
 USER
   STORIES
 
-    * As a **user** I want to be able to edit stories so I can correct my posts
-    * As a **user** I want to be able to delete stories so I can remove my stories
-    * As a **user** I want to be able to edit my information so I can change it
+    - As a **user** I want to be able to edit stories so I can correct my posts
+    - As a **user** I want to be able to delete stories so I can remove my stories
+    - As a **user** I want to be able to edit my information so I can change it
 
   COMMENTS
 
