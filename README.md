@@ -18,7 +18,7 @@ Developer
 ### Need to have
 #### USER
   LOGIN
-    * As a **user** I want to be able to registered on the site so that I can post stories and comments
+    ..* As a **user** I want to be able to registered on the site so that I can post stories and comments
     * As a **user** I want to be able to log on to the site so that I can post stories and comments
 
   STORIES
