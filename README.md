@@ -2,12 +2,19 @@
 
 ## ROLES
 Product Owner
+
 - Phillip Brink (**PO** )
+
 Test Manager
+
 - Emilie H. Nielsen (**TM**)
-Scrum Master (**SM**)
-- Philip West
+
+Scrum Master
+
+- Philip West (**SM**)
+
 Developer
+
 - Emilie H. Nielsen
 - Kasper Vetter
 - Philip West
